@@ -140,17 +140,8 @@ Project details withheld due to signed confidentiality / NDA obligations.
 
 - Contributing to an industry-level robotics project involving ROS 2-based workflows, controls-oriented development, embedded integration, and system-level coordination.
 - Supporting real-world engineering tasks across robotics software, hardware coordination, and practical deployment-focused development in a professional setting.
-- Responsible for sensor and actuator identification, evaluation, and procurement coordination for a project hardware budget of approximately Rs. 10 lakh.
+- Responsible for sensor and actuator identification, evaluation, and procurement coordination for a project hardware budget of approximately six figures.
 - Working with industrial-grade components and practical engineering constraints while maintaining strict confidentiality.
-
-### Industrial Robotics Engineering Project
-
-**Role:** Robotics Engineering Contributor  
-**Technologies:** ROS 2, Controls, Embedded Integration
-
-- Contribute to ROS 2 based robotics workflows, controls-oriented development, embedded integration, sensor/actuator evaluation, and hardware coordination under professional constraints.
-- Coordinate component identification, evaluation, and procurement support for a project hardware budget of approximately Rs. 10 lakh.
-- Work across robotics software, electronics, and mechanical constraints for deployment-oriented industrial robotics tasks.
 
 ## Projects
 
@@ -175,13 +166,6 @@ Project details withheld due to signed confidentiality / NDA obligations.
 
 - Created a 3-stage backend image-analysis pipeline for a larger Visage project with YOLOv8n object detection, 13 allowed object classes, privacy-safe face tokens, BLIP captions, and structured app-ready output.
 
-### QR-Based Mapping And Navigation Robot
-
-**Technologies:** Raspberry Pi 5, Pi Camera, OpenCV, Python
-
-- Building a robot pipeline for QR-based cell identification, map generation, shortest-path planning, and dashboard-based monitoring using Raspberry Pi and camera-based perception.
-- Designed with separate control, UI, firmware, and testing layers for easier debugging and future expansion.
-
 ### Quadruped Robot Development
 
 **Technologies:** Kinematics, robotics controls, embedded integration
@@ -194,13 +178,6 @@ Project details withheld due to signed confidentiality / NDA obligations.
 **Technologies:** Inverse Kinematics, Robotics Controls, Embedded Integration
 
 - Implemented inverse-kinematics motion logic for leg movement, connecting control theory with practical actuation for stable quadruped locomotion.
-
-### Embedded Vision Modules For Robotics
-
-**Technologies:** Raspberry Pi, Pi Camera, OpenCV, Python
-
-- Developing reusable camera-based perception modules that can be embedded into broader robotics systems rather than presented as isolated demo projects.
-- Focused on practical integration of Raspberry Pi, camera input, and OpenCV-based processing for real robotics workflows.
 
 ### Schooling-Era Robotics Projects
 

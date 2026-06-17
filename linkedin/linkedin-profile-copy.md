@@ -22,7 +22,7 @@ Robotics Engineering Contributor
 Technologies: ROS 2, robotics controls, embedded integration, sensor/actuator evaluation, hardware coordination
 
 - Contribute to ROS 2 based robotics workflows, controls-oriented development, embedded integration, sensor/actuator evaluation, and hardware coordination under professional constraints.
-- Coordinate component identification, evaluation, and procurement support for a project hardware budget of approximately Rs. 10 lakh.
+- Coordinate component identification, evaluation, and procurement support for a project hardware budget of approximately six figures.
 - Work across robotics software, electronics, and mechanical constraints for deployment-oriented industrial robotics tasks while keeping project details confidential.
 
 ## Featured Projects

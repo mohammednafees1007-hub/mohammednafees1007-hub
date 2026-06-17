@@ -34,7 +34,7 @@ I build practical systems across robotics software, embedded hardware, and compu
 Robotics Engineering Contributor - ROS 2, Controls, Embedded Integration
 
 - Contributing to ROS 2 based robotics workflows, controls-oriented development, embedded integration, sensor/actuator evaluation, and hardware coordination under professional constraints.
-- Coordinating component identification, evaluation, and procurement support for a project hardware budget of approximately Rs. 10 lakh.
+- Coordinating component identification, evaluation, and procurement support for a project hardware budget of approximately six figures.
 - Working across robotics software, electronics, and mechanical constraints for deployment-oriented industrial robotics tasks while keeping project details confidential.
 
 ## Education

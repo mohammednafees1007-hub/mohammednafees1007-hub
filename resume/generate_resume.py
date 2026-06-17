@@ -177,7 +177,7 @@ def build():
         ),
         bullet(
             "Coordinate component identification, evaluation, and procurement support for "
-            "a project hardware budget of approximately Rs. 10 lakh while keeping project "
+            "a project hardware budget of approximately six figures while keeping project "
             "details confidential.",
             s["small"],
         ),
