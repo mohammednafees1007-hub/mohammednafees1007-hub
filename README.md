@@ -52,6 +52,9 @@ Tamil Nadu, India
 ## Resume And LinkedIn
 
 - [Download resume PDF](resume/Mohammed_Nafees_H_Resume.pdf)
+- [Full information from both source resume PDFs](profile/full-resume-information.md)
+- [Original robotics and AI resume PDF](source-pdfs/Mohammed_Nafees_H_Resume_original.pdf)
+- [Original robotics internship resume PDF](source-pdfs/Mohammed_Nafees_H_Robotics_Resume_original.pdf)
 - [LinkedIn profile](https://www.linkedin.com/in/mohammed-nafees-h-7b3377306)
 - [LinkedIn-ready profile copy](linkedin/linkedin-profile-copy.md)
 
